@@ -104,10 +104,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <a href="https://x.com/_Pathak_Darshan" target="blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="twitter" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/pathakdarshan12/" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="30" width="40" />
-</a>
-<a href="mailto:pathakdarshan12@gmail.com" target="blank">
+<a href="mailto:dharpaleguru@gmail.com" target="blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="30" width="40" />
 </a>
 </p>
